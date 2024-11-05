@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ## Features
-###### Add Expense: Enter a title, amount, date, and category for each expense.
-###### View Expenses: View a list of all recorded expenses.
-###### Delete Expense: Remove individual expenses from the list.
+##### Add Expense: Enter a title, amount, date, and category for each expense.
+##### View Expenses: View a list of all recorded expenses.
+##### Delete Expense: Remove individual expenses from the list.
 
