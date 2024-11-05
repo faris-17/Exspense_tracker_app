@@ -20,6 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 - Delete Expense: Remove individual expenses from the list.
 
 ## Screenshots
-![Screenshot 2024-11-05 065328](https://github.com/user-attachments/assets/752cf938-ca72-42ec-ba43-d33660d58e9c)
-![Screenshot 2024-11-05 065412](https://github.com/user-attachments/assets/9fe45c74-81b0-4cfc-939f-c07a0fd19989)
+![Screenshot 2024-11-05 065328](https://github.com/user-attachments/assets/2ce1a60d-a850-4b4a-924f-645c9bad1f28)
+![Screenshot 2024-11-05 065412](https://github.com/user-attachments/assets/fb342682-a84a-48cc-bdca-03b3ea82c551)
+
 
