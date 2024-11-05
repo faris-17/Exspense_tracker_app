@@ -21,5 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 ![Screenshot 2024-11-05 065328](https://github.com/user-attachments/assets/752cf938-ca72-42ec-ba43-d33660d58e9c)
-
+![Screenshot 2024-11-05 065412](https://github.com/user-attachments/assets/9fe45c74-81b0-4cfc-939f-c07a0fd19989)
 
