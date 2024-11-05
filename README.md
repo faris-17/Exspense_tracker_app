@@ -1,4 +1,4 @@
-# expense_tracker
+# Expense_tracker
 
 A simple expense tracker application built with Flutter to help you manage your daily expenses. This app allows users to add, view, and delete expenses, making budgeting and tracking spending easy.
 
